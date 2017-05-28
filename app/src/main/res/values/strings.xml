@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Memo</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="listtool">메모리스트</string>
+
+
+
+
+
+</resources>
